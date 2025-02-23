@@ -1,18 +1,25 @@
 {
-  "productName": "Magical Deals",
+  "productName": "Jinks",
   "theme": {
-    "isDark": true,
-    "color": "teal"
+    "color": "red",
+    "isDark": true
   },
   "heroSection": {
     "title": [
-      { "text": "Create the best" },
-      { "text": "App", "isGradient": true },
-      { "text": "in the world" }
+      {
+        "text": "Grab a"
+      },
+      {
+        "text": "Jinks Mango Bag",
+        "isGradient": true
+      },
+      {
+        "text": "for a fruity delight"
+      }
     ],
-    "description": "Fazzle.ia helps companies expand globally with seamless collaboration, making it easier to build and manage teams in 180+ countries.",
-    "imageUrl": "https://essentials.pixfort.com/saas/wp-content/uploads/sites/3/2020/05/saas-intro-mockup.png",
-    "buttonText": "Get Started"
+    "description": "Indulge in 100% natural mangoes packed eco-friendly in their own skins. A snack that's as delicious as it is sustainable.",
+    "imageUrl": "https://w7.pngwing.com/pngs/733/28/png-transparent-red-mangoes-juice-smoothie-mango-health-eating-mango-natural-foods-food-orange-thumbnail.png",
+    "buttonText": "Get Your Mango Bag Today"
   },
   "pricing": {
     "settings": {
@@ -160,32 +167,36 @@
       }
     ]
   },
-
   "problemSection": {
     "title": [
-      { "text": "Create the best" },
-      { "text": "Gadget", "isGradient": true },
-      { "text": "in the world" }
+      {
+        "text": "Tired of"
+      },
+      {
+        "text": "unhealthy snacks",
+        "isGradient": true
+      },
+      {
+        "text": "with excessive packaging?"
+      }
     ],
-    "description": "Make data-driven decisions about where to invest your marketing budget, when to hire, and where there are opportunities for improvement.",
+    "description": "Traditional snacking often comes with guilt, whether it's because of unhealthy ingredients or the excessive packaging that harms the environment.",
     "problem": {
-      "title": "Before Using Databox",
+      "title": "Before Jinks Mango Bag",
       "points": [
-        "Data is scattered across multiple tools and teams",
-        "It takes too long to get the information you need",
-        "It's difficult to gain insights from your data",
-        "Decisions are based on intuition and assumptions",
-        "Creating reports manually takes a lot of time"
+        "Snack options are often unhealthy",
+        "Excessive packaging waste",
+        "No guilt-free snack options",
+        "Snacks compromise on taste for health"
       ]
     },
     "solution": {
-      "title": "After Using Databox",
+      "title": "With Jinks Mango Bag",
       "points": [
-        "A centralized source of truth for data",
-        "Your team or clients can access the answers they need instantly",
-        "Clear visibility into company performance",
-        "Better decisions informed by data",
-        "Less time on reporting, more time on strategy"
+        "Enjoy 100% natural mangoes",
+        "Sustainable packaging with mango skin",
+        "A guilt-free snack option",
+        "Experience the perfect blend of health & taste"
       ]
     }
   },
@@ -228,31 +239,67 @@
     "menu": {
       "title": "Menu",
       "items": [
-        { "name": "Home", "route": "/" },
-        { "name": "Services", "route": "/services" },
-        { "name": "Products", "route": "/products" },
-        { "name": "Pricing", "route": "/pricing" }
+        {
+          "name": "Home",
+          "route": "/"
+        },
+        {
+          "name": "Services",
+          "route": "/services"
+        },
+        {
+          "name": "Products",
+          "route": "/products"
+        },
+        {
+          "name": "Pricing",
+          "route": "/pricing"
+        }
       ]
     },
     "resources": {
       "title": "Resources",
       "items": [
-        { "name": "Documentation", "route": "/docs" },
-        { "name": "API Reference", "route": "/api" }
+        {
+          "name": "Documentation",
+          "route": "/docs"
+        },
+        {
+          "name": "API Reference",
+          "route": "/api"
+        }
       ]
     },
     "legal": {
       "title": "Legal Information",
       "items": [
-        { "name": "Privacy Policy", "route": "/privacy" },
-        { "name": "Terms & Conditions", "route": "/terms" }
+        {
+          "name": "Privacy Policy",
+          "route": "/privacy"
+        },
+        {
+          "name": "Terms & Conditions",
+          "route": "/terms"
+        }
       ]
     },
     "socialLinks": [
-      { "name": "facebook", "link": "#" },
-      { "name": "tiktok", "link": "#" },
-      { "name": "vk", "link": "#" },
-      { "name": "dribbble", "link": "#" }
+      {
+        "name": "facebook",
+        "link": "#"
+      },
+      {
+        "name": "tiktok",
+        "link": "#"
+      },
+      {
+        "name": "vk",
+        "link": "#"
+      },
+      {
+        "name": "dribbble",
+        "link": "#"
+      }
     ],
     "copyright": "© 2024 Bekets. All Rights Reserved."
   },
